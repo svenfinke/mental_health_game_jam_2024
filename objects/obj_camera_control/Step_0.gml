@@ -6,5 +6,5 @@ var _down_movement = (keyboard_check(vk_down) or keyboard_check(ord("S")))
 var _x_input = _right_movement - _left_movement
 var _y_input = _down_movement - _up_movement
 
-x += _x_input * camera_speed
-y += _y_input * camera_speed
+x = round(x + (_x_input * camera_speed))
+y = round(y + (_y_input * camera_speed))
