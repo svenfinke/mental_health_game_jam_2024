@@ -15,7 +15,6 @@
     {"$GMFolder":"","%Name":"Notizen","folderPath":"folders/Notizen.yy","name":"Notizen","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objekte","folderPath":"folders/Objekte.yy","name":"Objekte","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Buildings","folderPath":"folders/Objekte/Buildings.yy","name":"Buildings","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Obstacles","folderPath":"folders/Objekte/Obstacles.yy","name":"Obstacles","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tasks","folderPath":"folders/Objekte/Tasks.yy","name":"Tasks","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Worker","folderPath":"folders/Objekte/Worker.yy","name":"Worker","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -40,7 +39,6 @@
   },
   "name":"game_jam",
   "resources":[
-    {"id":{"name":"obj_barrel","path":"objects/obj_barrel/obj_barrel.yy",},},
     {"id":{"name":"obj_building_base","path":"objects/obj_building_base/obj_building_base.yy",},},
     {"id":{"name":"obj_camera_control","path":"objects/obj_camera_control/obj_camera_control.yy",},},
     {"id":{"name":"obj_task_base","path":"objects/obj_task_base/obj_task_base.yy",},},

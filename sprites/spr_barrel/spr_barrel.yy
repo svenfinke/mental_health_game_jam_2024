@@ -104,6 +104,6 @@
     "path":"texturegroups/Default",
   },
   "type":0,
-  "VTile":true,
+  "VTile":false,
   "width":16,
 }
